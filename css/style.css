@@ -6,6 +6,7 @@
 
   .h-3 {
     font-size: 16px;
+    margin: 0 15px 0 15px;
   }
 
   .h-2 {
@@ -16,7 +17,7 @@
     margin: 0;
   }
   .email-link {
-    font-size: 20px;
+    font-size: 16px;
   }
   .contact-me {
     margin-top: 0px;
@@ -73,6 +74,9 @@ p {
   line-height: 1.5;
   padding-bottom: 20px;
 }
+.about-paragraph {
+  text-align: center;
+}
 
 .navigation-links {
   display: flex;
@@ -103,7 +107,7 @@ p {
   display: flex;
   justify-content: center;
   color: var(--primary-color);
-  font-size: 28px;
+  font-size: 24px;
   text-decoration: none;
 }
 
