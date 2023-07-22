@@ -25,11 +25,14 @@
   .about-paragraph {
     text-align: left;
     margin: 0px 10px 0 10px;
-    padding-top: 20px;
+    padding: 20px 0 0 0;
   }
 
   .yoga-app {
     margin-top: 0;
+  }
+  .img-fluid {
+    margin: 0 0px 0 20px auto;
   }
 }
 
